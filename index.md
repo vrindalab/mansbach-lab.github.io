@@ -1,13 +1,13 @@
 ---
-title: Fraser Lab 
+title: Mansbach Lab 
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Mansbach Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
+We are part of the [Department of Physics](https://www.concordia.ca/artsci/physics.html) and affiliated with the [Centre for Research in Molecular Modeling](https://www.concordia.ca/research/molecular-modeling.html) 
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/jf_retreat_logo.png){:style="max-width: 100%; height: auto;"}
