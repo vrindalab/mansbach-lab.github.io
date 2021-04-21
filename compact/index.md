@@ -10,57 +10,52 @@ group: compact
 <br/>
 
 ## Overview (with links to sections)
-The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ackn">acknowledge</a> that our institution was built on unceded Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharaing our <a href="#data">data</a> very seriously. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
+
+Under construction<!--The <a href="#mission">Mansbach Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ackn">acknowledge</a> that our institution was built on unceded Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharaing our <a href="#data">data</a> very seriously. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
+//-->
 <br/>
 <br/>
 
-## <a id="mission">Fraser Lab Mission</a>
-We want to produce high quality research in an uncompromising and highly transparent manner.  We strive to work on unique problems using rigorous methods and like to disseminate our work as it occurs and have a strong focus on publishing preprints in addition to the traditional peer review process. Our software and scripts are open access on [github](https://github.com/fraser-lab), and we continuously amend our policies to make our data and methods more accessible to the community.  We strive to be anti-secrecy in all things, and try to forge new lines of work that don’t compete with other labs.
-
-Proteins are not static structures, and our scientific mission is to bridge the interface between statistical mechanics and biology to characterize protein structures as sets of conformational ensembles. Further, we push the boundaries of how we think about this structural framework to understand how physical, chemical, and genetic perturbations can shift the relative balance of those conformations. Through this mapping of stimuli to sets of structures we gain valuable insight into a variety of biological processes that can be applied to mutational design or small molecule discovery.
+## <a id="mission">Mansbach Lab Mission</a>
+Under construction
 <br/>
 <br/>
 
 ## <a id="values">Core Lab Values</a>
-Our motto is “Beer and Tacos”.  While our lab culture is not alcohol focused, it represents our mentality. The phrase was first coined by Dayn Perry regarding baseball scouting. You can find the full origin story [here](/2016/03/16/BeerAndTacos/), but in short “Beer and Tacos” is about finding synergy between 2 or more things especially in cases where they are presented in opposition. For example, we like to publish preprints AND recognize the value of review-coordination and visibility that traditional journals provide while there are labs out there that staunchly choose a side. Similarly, two groups can ponder over whether to go out for a beer or to go out for tacos, but they don’t have to be mutually exclusive. Why fight? Beer and tacos can be enjoyed together. Certainly in the current state of science both routes of publication have their place. We should all be empowered to talk about our work at all times. We work on unique problems and disseminate quickly using preprints as a strategy to avoid the dreaded “scoop” without compromising our research or our ideals. “Beer AND Tacos”. CryoEM or crystallography for protein structure? Both!  “Beer AND Tacos”. We find ways to make things work so we get the best of multiple worlds. Or in the words of Dayn Perry, “Why construct an either-or scenario where none need exist?”
-
-![Beer and Tacos Acrostic](/static/img/compact/beertacos_acrostic.png "Beer and Tacos Acrostic!"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
-
-We’ve used our motto to frame what we value. The lab represents a diverse group of students and professionals with respect to race/ethnicity, gender identity, sexuality, nationality, religion, political affiliation, caregiver and family commitments, and beyond.  We strive to create a welcoming environment for all people, including underrepresented groups. As an advisor, I have the bias of my background, and other people have the bias of their background. I try to understand where you're coming from, along with where I'm coming from, and that shapes how we can work together.
-
-These values are ideals and we're all growing towards embodying them. I want people to call me out when I'm not living up to them, and I will call people out when I think they're not living up to them. We are imperfect and trying to grow and be better together. This document also helps us be accountable to each other as we try to live up to these ideals.
+Under construction
 <br/>
 <br/>
 
 ## <a id="land_ackn">Land Acknowledgment Statement</a>
-The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
+Under construction
 <br/>
 <br/>
 
 ## <a id="resources">Resources</a>
-A comprehensive collection of resources for all of the topics listed in this compact has been compiled to support our development and health. This list grows as we do and can be found [here](https://bit.ly/39oX74c).
+Under construction
 <br/>
 <br/>
 
 ## <a id="publishing">Publishing</a>
-Publishing preprints and sharing results openly is the key to 21st century science communication. The real end goal of any research is to get the work out there, and I find myself most invested in the final push to posting and preprint than any other subsequent part of the process. We maintain our high scientific standards by publishing preprints of high quality research when it’s ready. The peer-review process of traditional journals can delay important results by months and is often plagued with politics that are harmful to the scientific process as a whole. However, the reality is traditional publishing still provides the highest visibility for work and coordinates qualified reviewers. Our current approach involves disseminating our results via preprints and is followed by publishing in traditional journals. See “Beer AND Tacos” above. We currently do both because it gets us where we need to be, but we are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change.
-
-I like to take an active role in the preparation of all our manuscripts, and I have protocols to facilitate this. A Twitter feed I follow, [@drugmonkeyblog](https://twitter.com/drugmonkeyblog), voiced the issue of how students are often afraid to show PIs anything other than finished work. I expect a draft to be very rough and a starting point to grow from. Regarding authorship, I believe that conversations about positions in author order should occur early in a project, and I err on having more authors on a paper than less.  Everyone with a meaningful contribution should be included.
+Under construction
 <br/>
 <br/>
 
 ## <a id="peer_review">Peer Review</a>
-We believe that transparency in peer review is critical to improving the quality and  professionalism of reviews. We only review manuscripts that have been posted on BioRxiv and we post our peer review comments publicly on  Biorxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
+Under construction
+<!--We believe that transparency in peer review is critical to improving the quality and  professionalism of reviews. We only review manuscripts that have been posted on BioRxiv and we post our peer review comments publicly on  Biorxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
 
 Guidelines for how to engage in respectful and constructive peer review can be found on the [Peer Review in the Life Sciences course page](/peer_review/how_to).
-
+//-->
 <br/>
 <br/>
 
 ## <a id="coi">Conflicts of Interest</a>
-As an advisor, there are often conflicts of interest between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
+Under construction
+<!--As an advisor, there are often conflicts of interest between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
 
 We occasionally also do sponsored research in the lab and I consult for companies to the extent my primary responsibilities allow. These activities can create potential financial [conflicts of interest](/coi). I’m as transparent as possible about this work and relationships while honoring confidentiality agreements. If these financial conflicts cause an issue with the work or working relationship between me and a lab member, I want people to feel like they can have those conversations with me early, and I am happy to talk about it. My department chair would be a good person to talk to if you don't feel comfortable talking to me about it directly.
+//-->
 <br/>
 <br/>
 

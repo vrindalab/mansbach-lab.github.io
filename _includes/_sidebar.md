@@ -3,18 +3,14 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the Mansbach Lab
 
-James Fraser, Ph.D.
-Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Ré (Rachael) A. Mansbach, Ph.D.
+Assistant Professor
+Department of Physics
+Concordia University
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
+email: re.mansbach (#!) concordia.ca
+tel: 515 451 737 five
 
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+

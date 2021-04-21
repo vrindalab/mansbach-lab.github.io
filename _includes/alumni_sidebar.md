@@ -1,4 +1,4 @@
-### Fraser Lab Alumni
+### Mansbach Lab Alumni
 {% assign sorted = (site.alumni | sort: "enddate") | reverse %}
 {% for member in sorted %}
 <hr>
@@ -42,23 +42,10 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 
-<br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
-{% for student in sep_sorted %}
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-{% if student.startdate %} {{student.startdate | date:"%Y"}} - {% endif %}{{student.enddate | date:"%Y"}} <br>
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
 
 
 <br>
-## Fraser Lab Visitors
+## Mansbach Lab Visitors
 {% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}
 {% for visitor in visitor_sorted %}
 <hr>
