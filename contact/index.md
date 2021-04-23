@@ -1,10 +1,10 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Mansbach Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Mansbach Lab
 
 
 <div class="row">
@@ -12,21 +12,21 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  tel: 415 502 3488
+  tel: not yet!
 
 </div>
 
 <div class="col-md-4">
 
-  <h4>James Fraser, Ph.D.</h4>
-  Professor  <br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  California Institute of Quantitative Biosciences (QB3)  <br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
+  <h4>Ré A. Mansbach, Ph.D.</h4>
+  Assistant Professor  <br>
+  Department of Physics  <br>
+  Concordia University  <br>
+  email: re.mansbach (at) concordia.ca <br>
+  tel: 515 451 737 five
 
 </div>
-
+<!--
 <div class="col-md-4">
 
   <h4> Hilary Smith Mahon</h4>
@@ -92,7 +92,11 @@ San Francisco, CA 94143
 6. James' office is through the clear doors, the lab is on your right.
 
 <img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
-
+//-->
 ## Land Acknowledgement Statement
 
+Under construction
+
+<!--
 The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
+//-->

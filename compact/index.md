@@ -60,7 +60,7 @@ We occasionally also do sponsored research in the lab and I consult for companie
 <br/>
 
 ## <a id="mentorship">Mentorship</a>
-The most important things I can do are to give people the resources to accomplish what they want to accomplish in the lab, and to make sure what they’re doing is setting them up to grow for the position they want next. I believe that a mentorship relationship is a two way relationship. This means I expect lab members to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525).
+<!--The most important things I can do are to give people the resources to accomplish what they want to accomplish in the lab, and to make sure what they’re doing is setting them up to grow for the position they want next. I believe that a mentorship relationship is a two way relationship. This means I expect lab members to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525).
 >
 The kinetics of career transitions are more determined by their personal desires for what they want to do in their career and less on my desires to keep them in the lab longer (see Conflicts of Interest). I recognize the itinerant nature of their time in the lab and so I try to push people to consistently revisit the question: what’s next? I expect lab members to critically think about their next step and what they need to get there on both a short term and long term basis.  I try to work as hard as I can to give my lab the resources, including my time and my guidance, towards their goals.
 >
@@ -72,11 +72,11 @@ Specifically I aim to:
 * Provide access to training, resources, networking, collaboration, and presentation opportunities to facilitate lab members research and career goals.  
 * Be engaged with the latest science and current status of all lab projects to enable proper guidance.  
 * Give my lab members ample amounts of my time both around the lab and one-on-one.
->
+>//-->
 <br/>
 
 ## <a id="career_dev">Career Development</a>
-As people's career preferences evolve over time, I expect people to be engaged in a constant conversation with me. I think about “what's next” as being such an important part of mentorship because how they think their work in the lab feeds into their longer term career goals allows me to tailor training, networking, conferences, and even aspects of their project around what I think would be most beneficial for their goals. In addition, when you begin in the lab we develop an Individual Development Plan (IDP), and we will review this plan yearly through surveys, activities, and a focused meeting. In addition, the Avasthi lab has put together a [series of great activities](http://www.avasthilab.org/wp-content/uploads/2018/11/AvasthiLab_CDW2018.pdf) that are very helpful in finding your path.
+<!--As people's career preferences evolve over time, I expect people to be engaged in a constant conversation with me. I think about “what's next” as being such an important part of mentorship because how they think their work in the lab feeds into their longer term career goals allows me to tailor training, networking, conferences, and even aspects of their project around what I think would be most beneficial for their goals. In addition, when you begin in the lab we develop an Individual Development Plan (IDP), and we will review this plan yearly through surveys, activities, and a focused meeting. In addition, the Avasthi lab has put together a [series of great activities](http://www.avasthilab.org/wp-content/uploads/2018/11/AvasthiLab_CDW2018.pdf) that are very helpful in finding your path.
 
 Many people think about how they perform in grad school as defining our career options, but it is also possible to envision working in grad school to explore or reinforce your long term career plans. I think people's primary aim while they're here should be trying to set themselves up for life beyond the lab. People who have been very focused on this have been well motivated, and it becomes really easy to recognize when to cut losses on a project or when to wrap things up and publish. It provides me with clarity of how to direct their work, and I really like having a very constant back and forth about it.
 <br/>
@@ -99,11 +99,12 @@ I’m not super prescriptive of how people work. I expect people to be really in
 Here are some resources for additional support, these and other resouces are listed in the [Compact Resources](https://bit.ly/39oX74c).   
 For students - [https://studenthealth.ucsf.edu/](https://studenthealth.ucsf.edu/).
 For staff - [https://hr.ucsf.edu/](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304).
+//-->
 <br/>
 <br/>
 
 ## <a id="expectations">General Lab Expectations</a>
-As a researcher you are expected to develop your knowledge and skills, make incremental progress on your projects, and contribute to the running of the lab. This presupposes a lot of self-initiative and personal responsibility. The biggest driver of your academic career is you. Speak up when you need help or you find yourself going down an undesired path. Outside of this, you are also expected to document all of your work including methods, troubleshooting, and development. This information should be readily available to the rest of the lab. You are also expected to present your research both internally at group meetings a few times a year and to represent the lab at conferences and other national and international meetings. The lab values science communication, and we rely on feedback from group meetings and practice talks to hone our ability to make our science accessible to a variety of communities.
+<!--As a researcher you are expected to develop your knowledge and skills, make incremental progress on your projects, and contribute to the running of the lab. This presupposes a lot of self-initiative and personal responsibility. The biggest driver of your academic career is you. Speak up when you need help or you find yourself going down an undesired path. Outside of this, you are also expected to document all of your work including methods, troubleshooting, and development. This information should be readily available to the rest of the lab. You are also expected to present your research both internally at group meetings a few times a year and to represent the lab at conferences and other national and international meetings. The lab values science communication, and we rely on feedback from group meetings and practice talks to hone our ability to make our science accessible to a variety of communities.
 
 As a member of the lab community you are expected to be a team player. You are expected to follow lab policies, adapt as they evolve, and treat fellow members with respect. This includes respect for peoples’ lab areas and personal space and having consent for actions that will affect them. Lab members always ask permission before using or moving items belonging to a specific person including items in shared areas. Respect also means that when communicating to each other we empower rather than belittle people for their mistakes; we are all learning and growing. We are a collaborative, supportive lab so we ask for guidance from our fellow lab members with the understanding that academic careers get busier with time as people learn to take on more. As self-reliance is important to develop, we try to solve problems on our own first before seeking assistance. Also, you are also expected to contribute to the running of the lab by taking on repeating lab tasks that are rotated biannually.
 <br/>
@@ -122,22 +123,22 @@ As mentioned in <a href="#values">Core Lab Values</a> we embrace people from dif
 However, we understand that conflicts and hurt feelings may still arise. We work to resolve conflicts between those with differing opinions in a timely manner. Our goal is to ensure that all lab members  can feel welcome and part of the group. This allows for  more  awesome collaborative work and a more peaceful community. We acknowledge that it can take people different amounts of times or varying  modes of communication to find resolution. We remain open to different styles and modes of communication and try to be non-reactionary or judgmental. If we have wronged someone else it is important that we acknowledge what we did wrong, apologize, and find a way to avoid it happening again in the future.
 
 JF’s role in conflict resolution: Try to resolve conflicts among ourselves. JF is involved when any party feels it is necessary to do so. If a satisfactory resolution is not reached after involving JF, we can involve an external moderator, such as the [Ombuds](https://ombuds.ucsf.edu) or a [Restorative Justice circle facilitator](https://studentlife.ucsf.edu/circles).
-
+//-->
 <br/>
 <br/>
 
 ##  <a id="covid">COVID-19</a>
-The Fraser lab is aware of the imminent health risk posed by the pandemic and the need to take necessary workplace safety measures while being mindful of community members' space and needs. Members are encouraged to take Zoom calls in auxiliary office spaces while on-site in order to maintain physical distancing and to not be unnecessarily subjected to laboratory hazards, as a courtesy to those working in the lab space. The Fraser lab also recognizes that wearing a facial covering while indoors and while proximal to others outdoors is a matter of safety as well as a demonstration to the public that scientists understand and take the COVID-19 pandemic seriously.
+<!--The Fraser lab is aware of the imminent health risk posed by the pandemic and the need to take necessary workplace safety measures while being mindful of community members' space and needs. Members are encouraged to take Zoom calls in auxiliary office spaces while on-site in order to maintain physical distancing and to not be unnecessarily subjected to laboratory hazards, as a courtesy to those working in the lab space. The Fraser lab also recognizes that wearing a facial covering while indoors and while proximal to others outdoors is a matter of safety as well as a demonstration to the public that scientists understand and take the COVID-19 pandemic seriously.
 
 Due to limited occupancy of the on-site wet lab, all members are encouraged to do as much work from home as possible. When on-site work is required, an hourly scheduling system is to be utilized where members sign up in advance for flexible ‘shifts’ that adhere to [UCSF on-site density guidelines](https://coronavirus.ucsf.edu/campus-protocols/working-onsite). We expect that lab members will proactively communicate with each other regarding shift scheduling and be mindful of the scheduling needs and constraints of their fellow lab members. Moreover, these conversations should include volunteering to help each other out with lab tasks. While on-site, lab members should keep six feet or greater distance as much as possible. We are mindful of others’ comfort levels when a task requires people to be within six feet of each other and to keep these higher risk tasks as short as possible.
 > 
 Resources for COVID-19 relief can be found on the [UCSF COVID-19]().
-
+//-->
 <br/>
 <br/>
 
 ## <a id="data">Lab Notebooks/Data deposition</a>
-As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
+<!--As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 ##### Internal-
 Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually.
 
@@ -155,34 +156,40 @@ As data deposition to some repositories can be involved, current lab efforts inc
 **GenBank** - Raw sequencing data  
 **MaveDB** - Deep mutational scanning (DMS) data  
 **Mave Registry** - DMS experiments  
+//-->
 <br/>
 <br/>
 
 ## <a id="literature">Literature</a>
-As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website  describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
+<!--As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website  describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
+//-->
 <br/>
 <br/>
 
 ## <a id="collaboration">Collaboration</a>
 ##### Internal-
-In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
+<!--In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
 ##### External-
 The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. We seek to collaborate with labs who share a positive environment and a committment to open science. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
+//-->
 <br/>
 <br/>
 
 
 ## <a id="grants">Grant Writing/Funding</a>
-For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running and grant/proposal writing is the responsibility of the entire lab. My lab members and I collaborate together to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF.  There are resources on the internal website to assist with this.
+<!--For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running and grant/proposal writing is the responsibility of the entire lab. My lab members and I collaborate together to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF.  There are resources on the internal website to assist with this.
+//-->
 <br/>
 <br/>
 
 ## <a id="conferences">Conferences and Travel</a>
-Talk about your work openly. Share early. A key component to information transparency is getting it out there. People should present their work at conferences as they are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network as well as your science communication skills. I think everyone should attend 1-2 conferences a year. I encourage people to charge lab-related travel expenses to the lab. Your time is valuable; consider this when booking flights and ground transportation.
+<!--Talk about your work openly. Share early. A key component to information transparency is getting it out there. People should present their work at conferences as they are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network as well as your science communication skills. I think everyone should attend 1-2 conferences a year. I encourage people to charge lab-related travel expenses to the lab. Your time is valuable; consider this when booking flights and ground transportation.
+//-->
 <br/>
 <br/>
 
 ---
+<!--
 This development of this compact was guided by similar compacts and philosophies of several labs, see links.  
 [Matreyek Lab, Case Western Reserve University](http://www.matreyeklab.com/6-lab-philosophy/)  
 [Syed Lab, University of Minnesota](https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit)  
@@ -190,3 +197,4 @@ This development of this compact was guided by similar compacts and philosophies
 [Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/)  
 [Moghe Lab, Cornell](https://www.moghelab.org/lab-philosophy)  
 [Avasthi Lab, Dartmouth](http://www.avasthilab.org/lab-policies-and-tips/)
+//-->
