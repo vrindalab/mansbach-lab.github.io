@@ -15,7 +15,7 @@ Proteins are the building blocks of living things, miniature motors that make al
 
 <div class="row">
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+### Hybrid antibiotic design through interpretable deep learning
 
 <div class="col-md-7 order-md-1">
 
@@ -43,7 +43,7 @@ We are working on designing a deep learning model informed by multiscaled molecu
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
+<img class="img-fluid" src="/static/img/AMP-schematic.png" alt="hairball">
 </div>
 </div>
 <div class="row">
@@ -57,7 +57,7 @@ We are exploring ways to bring together constrained polymer theories with bond-b
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
+<img class="img-fluid" src="/static/img/disulfides.png" alt="tjump">
 </div>
 
 </div>
