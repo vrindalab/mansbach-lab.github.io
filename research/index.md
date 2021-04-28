@@ -61,12 +61,14 @@ We are interested in the structural enzymology and potential therapeutic applica
 </div>
 <div class="row">
 
-### Identifying unifying concepts between systems and structural biology
+### Antimicrobial Peptide Design
 
 <div class="col-md-7 order-md-2">
 
 
-We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
+Although design of novel antibiotics is one approach to combat the growing problem of multidrug resistance, it is unlikely to be sufficient on its own and a multipronged approach is warranted. Another promising line of research for novel drugs with antimicrobial action is the design of peptides with antimicrobial properties that preferentially disrupt the membranes of bacterial cells while displaying a lower affinity for mammalian cells.  This is still an active area of research, with only a few candidate peptides having reached clinical trials, due to the continued existence of unwanted side effects such as serum binding or the requirement of potentially-toxic concentrations to be effective.
+
+We are working on designing a deep learning model informed by multiscaled molecular dynamics, wherein generative learning is used to iteratively create potential AMP candidates that are assessed on multiple scales using molecular dynamics, from high-resolution atomistic molecular dynamics to assess detailed properties on short time scales, to low resolution "spherical peptide in a vacuum" models to assess penetration of candidates into the cell membrane.
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
@@ -75,14 +77,12 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 </div>
 <div class="row">
 
-### Creating new time-resolved experiments to probe correlated motions in proteins
+### Theory of disulfide bonds for toxin-based therapeutics
 
 <div class="col-md-7 order-md-1">
+Owing to their high specificity and binding affinity for various receptors involved in different biological pathways, toxins have for a long time been considered a rich natural source of therapeutic leads. A large and intriguing class of toxins is those that are short, cysteine-rich peptides whose structures are largely controlled by the multiple disulfide bonds that form between the cysteines. Historically, one difficulty in assessing the structure and hence the proposed mechanisms of such toxins has been that it can prove difficult to controllably fold them to their native stable states in vitro. Indeed, there is evidence that certain toxins exist even in vivo in metastable states that are nonetheless potent and in certain cases the “non-native” fold demonstrates higher selectivity and binding affinity which leads to the question of whether we can control these metastable states through sequence, environment or kinetic engineering.
 
-A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
-We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
-At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
-Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
+We are exploring ways to bring together constrained polymer theories with bond-breaking force field models to map out the free energy landscapes of disulfide-rich toxins.
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
